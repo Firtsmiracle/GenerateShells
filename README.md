@@ -25,13 +25,13 @@ apt install python3
 python3 generate_shell.py
 ```
 
-![](https://github.com/Firtsmiracle/GenerateShells/blob/main/Images/generate.PNG)
+![](https://github.com/Firtsmiracle/GenerateShells/blob/master/Images/generate.PNG)
 
 > Selecciona las opciones para generar la `reverse shell` en base al lenguaje requerido.
 
  - El programa te pedira ingresar una `IP` y un `Puerto` validos.
  
-![](https://github.com/Firtsmiracle/GenerateShells/blob/main/Images/generate2.PNG)
+![](https://github.com/Firtsmiracle/GenerateShells/blob/master/Images/generate2.PNG)
 
 > Presione `Ctrl-c` si desea salir del programa.
 
