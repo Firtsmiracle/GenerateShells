@@ -1,6 +1,6 @@
 # GenerateShells
 
-Herramienta hecha en `python3` que permite generar `reverse shell` en diferentes lenguajes para agilizar nuestras explotaciones.
+Herramienta hecha en `python3` que permite generar `reverse shell` en diferentes lenguajes para agilizar explotaciones en pruebas de penetración.
 
 # Instalación
 
